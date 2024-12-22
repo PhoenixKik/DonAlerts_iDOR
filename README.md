@@ -1,5 +1,5 @@
 # DonAlerts_iDOR
-Donationalerts.ru iDOR vulnerability
+Donationalerts.ru iDOR vulnerability V2
 
 Install and run:
 
